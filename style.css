@@ -5,3 +5,10 @@ img {
 	padding: 1em;
 	text-align: center;
 }
+nav {
+	height: 60px;
+}
+
+.jambotron {
+	background: #eee;
+}
