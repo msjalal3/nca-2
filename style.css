@@ -1,0 +1,7 @@
+img {
+	border-radius: 5px;
+}
+.d-flex > * {
+	padding: 1em;
+	text-align: center;
+}
